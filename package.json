@@ -8,8 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage" "https://rockfishtaco.github.io/pitabite",
-  "description": "",
+  "homepage": "https://rockfishtaco.github.io/pitabite",
+
   "dependencies": {
     "gh-pages": "^6.2.0"
   }
